@@ -120,3 +120,4 @@ var oil={
     price:'10 rs'
 }
 console.log(oil);
+//
