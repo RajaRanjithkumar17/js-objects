@@ -5,7 +5,7 @@ var bags={
     type:'handbag'
 }
 //for (const r in bags) {  //get keys
-    console.log(bags[color]);//get values
+    console.log(bags.color);//get values
 //}
 
 // mobile
@@ -120,4 +120,13 @@ var oil={
     price:'10 rs'
 }
 console.log(oil);
-//
+//marks
+var ranjith={
+    tamil:92,
+    english:70,
+    maths:59,
+    science:89,
+    social:86
+
+}
+console.log(ranjith)
